@@ -1,0 +1,3 @@
+1. Tải dữ liệu ở Kaggle tại đường link: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset (cho phép sử dụng với mục đích giáo dục)
+2. Đặt file dataset cùng một thư mục với file source code 19127009_19127416.ipynb để chạy không bị lỗi
+3. Nếu sử dụng máy chạy hệ điều hành khác MacOS thì phải thiết lập môi trường min_ds-env trước khi chạy file 19127009_19127416.ipynb bằng Jupyter Notebook.
